@@ -228,7 +228,7 @@ https://bonappetit-samsung.amagi.tv/playlist.m3u8
 https://d2dy6pkj44n6e7.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10020_27d61a9c-67b2-4d7c-9486-626a6a071467_LE/in/cmg-wftxtv-hls-v3/live.m3u8
 #EXTINF:-1 tvg-id="BounceEST.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bounce-us.png" group-title="Entertainment",Bounce Tallahassee FL (WTXL-TV2) (480p)
 https://5e6cea03e25b6.streamlock.net/live/BOUNCE.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="https://www.bouncetv.com/xl/schedule/" tvg-country="US" tvg-language="English" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/television-home-theater/tvs/tvplus/all-channels/10262021/Samsung_-_Bounce_XL_logo__CIRCLE_-_1000x1000.png" group-title="Entertainment",Bounce XL (720p)
+#EXTINF:-1 tvg-id="https://www.bouncetv.com/" tvg-country="US" tvg-language="English" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/television-home-theater/tvs/tvplus/all-channels/10262021/Samsung_-_Bounce_XL_logo__CIRCLE_-_1000x1000.png" group-title="Entertainment",Bounce XL (720p)
 https://c217322ca48e4d1e98ab33fe41a5ed01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_BounceXL/playlist.m3u8
 #EXTINF:-1 tvg-id="BowieTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZgrlVYT.jpg" group-title="Local",Bowie TV (360p) [Not 24/7]
 https://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
