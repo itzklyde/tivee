@@ -1,10 +1,6 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
 #EXTINF:-1 tvg-id="ABCNews.us" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" group-title="News",ABC News
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive1.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="Local",ABC News Live 1
-https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
-#EXTINF:-1 tvg-id="AbsoluteRealitybyWETV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oOFjyYf.png" group-title="Entertainment",Absolute Reality by WE TV
-https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="AccuWeather.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yNDUzNzc0Mjlf/AccuWeather_500x500.png" group-title="Weather",AccuWeather Now
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="ActionMaxEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Snba5W2.jpg" group-title="Movies",ActionMax East
@@ -35,6 +31,8 @@ https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
 #EXTINF:-1 tvg-id="AdultSwimYourPrettyFaceIsGoingToHell.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yVZAI7F.png" group-title="Series",Adult Swim Your Pretty Face Is Going To Hell
 https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
+#EXTINF:-1 tvg-id="AbsoluteRealitybyWETV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oOFjyYf.png" group-title="Entertainment",Absolute Reality by WE TV
+https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="AFV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lG3OHxA.png" group-title="Comedy",AFV
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz"
 #EXTINF:-1 channel-id="pluto-51c75f7bb6f26ba1cd00002f" tvg-id="51c75f7bb6f26ba1cd00002f" tvg-chno="980" tvg-logo="https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png" group-title="Kids",Little Stars Universe
