@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
-http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCNews.us" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" group-title="News",ABC News
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive1.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="Local",ABC News Live 1
