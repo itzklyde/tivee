@@ -116,7 +116,7 @@ https://h2.ustvgo.la/HLN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8y
 #EXTINF:-1 tvg-id="HMM" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/hallmark-movies-and-mysteries-us.png", Hallmark Movies & Mysteries
 https://h2.ustvgo.la/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIyIDg6MDc6NDMgUE0maGFzaF92YWx1ZT1KVVJqU3Byd0s2ZnM2Y05aTGRTaXNnPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="ID" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/investigation-discovery-us.png", Investigation Discovery
-https://list.iptvcat.com/my_list/s/e7150197c70314c622506ce4cfa4a291.m3u8
+https://list.iptvcat.com/my_list/s/ce47cc18f08115c17a8df7a77938c373.m3u8
 #EXTINF:-1 tvg-id="IONNY" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/ion-television-us.png", ION (WPXN) New York
 https://h2.ustvgo.la/IONNY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIyIDg6MDc6NDMgUE0maGFzaF92YWx1ZT1KVVJqU3Byd0s2ZnM2Y05aTGRTaXNnPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="Lifetime" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/lifetime-us.png", Lifetime
