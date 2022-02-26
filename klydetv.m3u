@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Theitfixer85/myepg/master/blueepg.xml.gz"
-#EXTM3U
 #EXTINF:0,MLB Pass: 01 (Only Events)(e)
 http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124201
 #EXTINF:0,MLB Pass: 02 (Only Events)(e)
