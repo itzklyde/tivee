@@ -1,213 +1,798 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Theitfixer85/myepg/master/blueepg.xml.gz"
-
-                    #########################################################################
-                    #      ____            _           _   __  __                           #
-                    #     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
-                    #     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
-                    #     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
-                    #     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
-                    #                   |__/                                                #
-                    #                                  >> https://github.com/benmoose39     #
-                    #########################################################################
-
-
-#EXTINF:-1 tvg-id="ABC" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/abc-us.png", ABC
-https://h3.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="ABCNY" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/abc-us.png", ABC 7 New York
-https://h3.ustvgo.la/ABCNY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="ACCN" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/acc-network-us.png", ACC Network
-https://h3.ustvgo.la/ACCN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="AE" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/a-and-e-us.png", AE
-https://h3.ustvgo.la/AE/vipStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQyIFBNJmhhc2hfdmFsdWU9NXRPWGNZV0pCZmNUQ0V2aVAzODNOQT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="AMC" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/amc-us.png", AMC
-https://h3.ustvgo.la/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="Animal" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/animal-planet-us.png", Animal Planet
-https://h3.ustvgo.la/Animal/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="BBCAmerica" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/bbc-america-us.png", BBCAmerica
-https://h3.ustvgo.la/BBCAmerica/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="BTN" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/btn-us.png", Big Ten Network
-https://h3.ustvgo.la/BTN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="BET" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/bet-us.png", BET
-https://h3.ustvgo.la/BET/vipStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQyIFBNJmhhc2hfdmFsdWU9NXRPWGNZV0pCZmNUQ0V2aVAzODNOQT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="Boomerang" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/boomerang-us.png", Boomerang
-https://h3.ustvgo.la/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="Bravo" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/bravo-us.png", Bravo
-https://h3.ustvgo.la/Bravo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="CSPAN" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/c-span-1-us.png", C-span
-https://h3.ustvgo.la/CSPAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="CBS" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cbs-logo-white-us.png", CBS
-https://h3.ustvgo.la/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="CBSNY" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cbs-logo-white-us.png", CBS 2 New York
-https://h3.ustvgo.la/CBSNY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="CBSSN" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cbs-sports-network-us.png", CBS Sports Network
-https://h3.ustvgo.la/CBSSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="Cinemax" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cinemax-us.png", Cinemax
-https://h3.ustvgo.la/Cinemax/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="CMT" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cmt-us.png", CMT
-https://h3.ustvgo.la/CMT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="CN" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/cartoon-network-us.png", Cartoon Network
-https://h3.ustvgo.la/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="CNBC" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/cnbc-us.png", CNBC
-https://h3.ustvgo.la/CNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="CNN" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cnn-us.png", CNN
-https://h3.ustvgo.la/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="Comedy" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/comedy-central-us.png", Comedy Central
-https://h3.ustvgo.la/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="CW" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cw-us.png", CW
-https://h3.ustvgo.la/CW/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="CWNY" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cw-us.png", CW 11 New York
-https://h3.ustvgo.la/CWNY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="DA" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/destination-america-us.png", Destination America
-https://h3.ustvgo.la/DA/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="Discovery" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/discovery-channel-us.png", Discovery
-https://h3.ustvgo.la/Discovery/vipStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQyIFBNJmhhc2hfdmFsdWU9NXRPWGNZV0pCZmNUQ0V2aVAzODNOQT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="Disney" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/disney-channel-us.png", Disney
-https://h3.ustvgo.la/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="DisneyJr" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/disney-junior-us.png", DisneyJr
-https://h3.ustvgo.la/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="DisneyXD" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/disney-xd-us.png", DisneyXD
-https://h3.ustvgo.la/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="E" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/e-entertainment-us.png", E!
-https://h3.ustvgo.la/E/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="ESPN" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/espn-us.png", ESPN
-https://h3.ustvgo.la/ESPN/vipStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQyIFBNJmhhc2hfdmFsdWU9NXRPWGNZV0pCZmNUQ0V2aVAzODNOQT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="ESPN2" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/espn-2-us.png", ESPN2
-https://h3.ustvgo.la/ESPN2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="ESPNU" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/espn-u-us.png", ESPNU
-https://h3.ustvgo.la/ESPNU/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="ESPNews" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/espnews-us.png", ESPNews
-https://h3.ustvgo.la/ESPNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="FoodNetwork" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/food-network-us.png", FoodNetwork
-https://h3.ustvgo.la/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="FOX" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/Fox5.png", FOX
-https://h3.ustvgo.la/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="FOXNY" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/Fox5.png", FOX 5 New York
-https://h3.ustvgo.la/FOXNY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="FoxBusiness" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fox-business-us.png", FoxBusiness
-https://h3.ustvgo.la/FoxBusiness/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="FoxNews" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fox-news-us.png", FoxNews
-https://h3.ustvgo.la/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="Freeform" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/freeform-us.png", Freeform
-https://h3.ustvgo.la/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="FS1" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fox-sports-1-us.png", Fox Sports 1 (FS1)
-https://h3.ustvgo.la/FS1/vipStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQyIFBNJmhhc2hfdmFsdWU9NXRPWGNZV0pCZmNUQ0V2aVAzODNOQT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="FS2" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fox-sports-2-us.png", Fox Sports 2 (FS2)
-https://h3.ustvgo.la/FS2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="FX" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fx-us.png", FX
-https://h3.ustvgo.la/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="FXMovie" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/fxm-movie-channel-us.png", FX Movie Channel
-https://h3.ustvgo.la/FXMovie/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="FXX" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fxx-us.png", FXX
-https://h3.ustvgo.la/FXX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="GOLF" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nbc-golf-channel-us.png", Golf Channel
-https://h3.ustvgo.la/GOLF/vipStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQyIFBNJmhhc2hfdmFsdWU9NXRPWGNZV0pCZmNUQ0V2aVAzODNOQT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="GSN" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/game-show-network-us.png", Game Show Network
-https://h3.ustvgo.la/GSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="Hallmark" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/hallmark-us.png", Hallmark Channel
-https://h3.ustvgo.la/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="HBO" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/hbo-us.png", HBO
-https://h3.ustvgo.la/HBO/vipStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQyIFBNJmhhc2hfdmFsdWU9NXRPWGNZV0pCZmNUQ0V2aVAzODNOQT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="HGTV" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/hgtv-us.png", HGTV
-https://h3.ustvgo.la/HGTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="History" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/history-channel-us.png", History
-https://h3.ustvgo.la/History/vipStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQyIFBNJmhhc2hfdmFsdWU9NXRPWGNZV0pCZmNUQ0V2aVAzODNOQT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="HLN" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/hln-us.png", HLN
-https://h3.ustvgo.la/HLN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="HMM" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/hallmark-movies-and-mysteries-us.png", Hallmark Movies & Mysteries
-https://h3.ustvgo.la/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="ID" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/investigation-discovery-us.png", Investigation Discovery
-https://h3.ustvgo.la/ID/vipStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQyIFBNJmhhc2hfdmFsdWU9NXRPWGNZV0pCZmNUQ0V2aVAzODNOQT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="IONNY" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/ion-television-us.png", ION (WPXN) New York
-https://h3.ustvgo.la/IONNY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="Lifetime" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/lifetime-us.png", Lifetime
-https://h3.ustvgo.la/Lifetime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="LifetimeM" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/lifetime-movie-network-us.png", Lifetime Movie Network
-https://h3.ustvgo.la/LifetimeM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="DIY" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/magnolia-network-us.png", Magnolia Network
-https://h3.ustvgo.la/DIY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="MLB" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/mlb-network-us.png", MLB Network
-https://h3.ustvgo.la/MLB/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="MotorTrend" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/motor-trend-us.png", Motor Trend
-https://h3.ustvgo.la/MotorTrend/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="MSNBC" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/msnbc-alt-us.png", MSNBC
-https://h3.ustvgo.la/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="MTV" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/mtv-us.png", MTV
-https://h3.ustvgo.la/MTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="NatGEO" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/national-geographic-us.png", National Geographic
-https://h3.ustvgo.la/NatGEO/vipStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQyIFBNJmhhc2hfdmFsdWU9NXRPWGNZV0pCZmNUQ0V2aVAzODNOQT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="NatGEOWild" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nat-geo-wild-us.png", Nat Geo Wild
-https://h3.ustvgo.la/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="NBA" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nba-tv-us.png", NBA TV
-https://h3.ustvgo.la/NBA/vipStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQyIFBNJmhhc2hfdmFsdWU9NXRPWGNZV0pCZmNUQ0V2aVAzODNOQT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="NBC" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nbc-logo-2013-us.png", NBC
-https://h3.ustvgo.la/NBC/vipStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQyIFBNJmhhc2hfdmFsdWU9NXRPWGNZV0pCZmNUQ0V2aVAzODNOQT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="NBCNY" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nbc-logo-2013-us.png", NBC 4 New York
-https://h3.ustvgo.la/NBCNY/vipStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQyIFBNJmhhc2hfdmFsdWU9NXRPWGNZV0pCZmNUQ0V2aVAzODNOQT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="NBCSN" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nbcsn-us.png", NBC Sports (NBCSN)
-https://h3.ustvgo.la/NBCSN/vipStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQyIFBNJmhhc2hfdmFsdWU9NXRPWGNZV0pCZmNUQ0V2aVAzODNOQT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="NFL" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/nfl-network-us.png", NFL Network
-https://h3.ustvgo.la/NFL/vipStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQyIFBNJmhhc2hfdmFsdWU9NXRPWGNZV0pCZmNUQ0V2aVAzODNOQT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="NFLRZ" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nfl-red-zone-us.png", NFL Redzone
-https://h3.ustvgo.la/NFLRZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="Nickelodeon" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nickelodeon-us.png", Nickelodeon
-https://h3.ustvgo.la/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="Nicktoons" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nick-toons-us.png", Nicktoons
-https://h3.ustvgo.la/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="OAN" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/one-america-news-network-us.png", One America News Network
-https://h3.ustvgo.la/OAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="OWN" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/opra-winfrey-network-us.png", Oprah Winfrey Network (OWN)
-https://h3.ustvgo.la/OWN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="OLY" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/olympics.png", Olympic Channel
-https://h3.ustvgo.la/OLY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="Oxygen" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/oxygen-us.png", Oxygen
-https://h3.ustvgo.la/Oxygen/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="Paramount" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/paramount-network-us.png", Paramount
-https://h3.ustvgo.la/Paramount/vipStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQyIFBNJmhhc2hfdmFsdWU9NXRPWGNZV0pCZmNUQ0V2aVAzODNOQT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="PBS" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/pbs-us.png", PBS
-https://h3.ustvgo.la/PBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="POP" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/pop-us.png", POP
-https://h3.ustvgo.la/POP/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="Science" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/discovery-science-us.png", Science
-https://h3.ustvgo.la/Science/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="SECN" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/sec-network-us.png", SEC Network
-https://h3.ustvgo.la/SECN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="Showtime" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/showtime-us.png", Showtime
-https://h3.ustvgo.la/Showtime/vipStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQyIFBNJmhhc2hfdmFsdWU9NXRPWGNZV0pCZmNUQ0V2aVAzODNOQT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="StarZ" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/starz-us.png", StarZ
-https://h3.ustvgo.la/StarZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="SundanceTV" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/sundance-tv-us.png", SundanceTV
-https://h3.ustvgo.la/SundanceTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="SYFY" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/syfy-us.png", SYFY
-https://h3.ustvgo.la/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="TBS" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tbs-us.png", TBS
-https://h3.ustvgo.la/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="TCM" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/tcm-movies-us.png", Turner Classic Movies (TCM)
-https://h3.ustvgo.la/TCM/vipStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQyIFBNJmhhc2hfdmFsdWU9NXRPWGNZV0pCZmNUQ0V2aVAzODNOQT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="Telemundo" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/telemundo-us.png", Telemundo
-https://h3.ustvgo.la/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="Tennis" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/tennis-channel-us.png", Tennis Channel
-https://h3.ustvgo.la/Tennis/vipStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQyIFBNJmhhc2hfdmFsdWU9NXRPWGNZV0pCZmNUQ0V2aVAzODNOQT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="TLC" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tlc-us.png", TLC
-https://h3.ustvgo.la/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="TNT" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tnt-us.png", TNT
-https://h3.ustvgo.la/TNT/vipStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQyIFBNJmhhc2hfdmFsdWU9NXRPWGNZV0pCZmNUQ0V2aVAzODNOQT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="Travel" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/travel-channel-us.png", Travel Channel
-https://h3.ustvgo.la/Travel/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="TruTV" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tru-tv-us.png", truTV
-https://h3.ustvgo.la/TruTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="TVLand" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tv-land-us.png", TV Land
-https://h3.ustvgo.la/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="TWC" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/weather-channel-us.png", The Weather Channel
-https://h3.ustvgo.la/TWC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="Univision" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/univision-us.png", Univision
-https://h3.ustvgo.la/Univision/vipStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQyIFBNJmhhc2hfdmFsdWU9NXRPWGNZV0pCZmNUQ0V2aVAzODNOQT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="USANetwork" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/usa-us.png", USA Network
-https://h3.ustvgo.la/USANetwork/vipStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQyIFBNJmhhc2hfdmFsdWU9NXRPWGNZV0pCZmNUQ0V2aVAzODNOQT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="VH1" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/vh1-us.png", VH1
-https://h3.ustvgo.la/VH1/vipStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQyIFBNJmhhc2hfdmFsdWU9NXRPWGNZV0pCZmNUQ0V2aVAzODNOQT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="WETV" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/we-tv-us.png", We TV
-https://h3.ustvgo.la/WETV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="WWE" group-title="ustvgo" tvg-logo="https://i.imgur.com/VJoF3bh.png", WWE Network
-https://h3.ustvgo.la/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-id="YES" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/yes-network-us.png", YES Network
-https://h3.ustvgo.la/YES/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDEwOjM0OjQxIFBNJmhhc2hfdmFsdWU9VzZha3ZRMWdLeWxWTkh5UjE4c3ovZz09JnZhbGlkbWludXRlcz0yNDA=
+#EXTM3U
+#EXTINF:0,MLB Pass: 01 (Only Events)(e)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124201
+#EXTINF:0,MLB Pass: 02 (Only Events)(e)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124202
+#EXTINF:0,MLB Pass: 03 (Only Events)(e)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124203
+#EXTINF:0,MLB Pass: 04 (Only Events)(e)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124204
+#EXTINF:0,MLB Pass: 05 (Only Events)(e)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124205
+#EXTINF:0,MLB Pass: 06 (Only Events)(e)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124206
+#EXTINF:0,MLB Pass: 07 (Only Events)(e)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124207
+#EXTINF:0,MLB Pass: 08 (Only Events)(e)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124208
+#EXTINF:0,MLB Pass: 09 (Only Events)(e)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124209
+#EXTINF:0,MLB Pass: 10 (Only Events)(e)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124210
+#EXTINF:0,MLB Pass: 11 (Only Events)(e)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124211
+#EXTINF:0,MLB Pass: 12 (Only Events)(e)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124212
+#EXTINF:0,MLB Pass: 13 (Only Events)(e)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124213
+#EXTINF:0,MLB Pass: 14 (Only Events)(e)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124214
+#EXTINF:0,NFL: Arizona Cardinals
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124137
+#EXTINF:0,NFL: Atlanta Falcons
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124138
+#EXTINF:0,NFL: Baltimore Ravens
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124139
+#EXTINF:0,NFL: Buffalo Bills
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124140
+#EXTINF:0,NFL: Carolina Panthers
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124141
+#EXTINF:0,NFL: Chicago Bears
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124142
+#EXTINF:0,NFL: Cincinnati Bengals
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124143
+#EXTINF:0,NFL: Cleveland Browns
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124144
+#EXTINF:0,NFL: Dallas Cowboys
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124145
+#EXTINF:0,NFL: Denver Broncos
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124146
+#EXTINF:0,NFL: Detroit Lions
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124147
+#EXTINF:0,NFL: Green Bay Packers
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124148
+#EXTINF:0,NFL: Houston Texans
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124149
+#EXTINF:0,NFL: Indianapolis Colts
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124150
+#EXTINF:0,NFL: Jacksonville Jaguars
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124151
+#EXTINF:0,NFL: Kansas City Chiefs
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124152
+#EXTINF:0,NFL: Las Vegas Raiders
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124153
+#EXTINF:0,NFL: Los Angeles Chargers
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124154
+#EXTINF:0,NFL: Los Angeles Rams
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124155
+#EXTINF:0,NFL: Miami Dolphins
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124156
+#EXTINF:0,NFL: Minnesota Vikings
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124157
+#EXTINF:0,NFL: New Orleans Saints
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124158
+#EXTINF:0,NFL: New England Patriots
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124159
+#EXTINF:0,NFL: New York Giants
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124160
+#EXTINF:0,NFL: New York Jets
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124161
+#EXTINF:0,NFL: Philadelphia Eagles
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124162
+#EXTINF:0,NFL: Pittsburgh Steelers
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124163
+#EXTINF:0,NFL: San Francisco 49ers
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124164
+#EXTINF:0,NFL: Seattle Seahawks
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124165
+#EXTINF:0,NFL: Tampa Bay Buccaneers
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124166
+#EXTINF:0,NFL: Tennessee Titans
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124167
+#EXTINF:0,NFL: Washington Football Team
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124168
+#EXTINF:0,NFL: Arizona Cardinals
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124169
+#EXTINF:0,NFL: Atlanta Falcons
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124170
+#EXTINF:0,NFL: Baltimore Ravens
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124171
+#EXTINF:0,NFL: Buffalo Bills
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124172
+#EXTINF:0,NFL: Carolina Panthers
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124173
+#EXTINF:0,NFL: Chicago Bears
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124174
+#EXTINF:0,NFL: Cincinnati Bengals
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124175
+#EXTINF:0,NFL: Cleveland Browns
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124176
+#EXTINF:0,NFL: Dallas Cowboys
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124177
+#EXTINF:0,NFL: Denver Broncos
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124178
+#EXTINF:0,NFL: Detroit Lions
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124179
+#EXTINF:0,NFL: Green Bay Packers
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124180
+#EXTINF:0,NFL: Houston Texans
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124181
+#EXTINF:0,NFL: Indianapolis Colts
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124182
+#EXTINF:0,NFL: Jacksonville Jaguars
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124183
+#EXTINF:0,NFL: Kansas City Chiefs
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124184
+#EXTINF:0,NFL: Las Vegas Raiders
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124185
+#EXTINF:0,NFL: Los Angeles Chargers
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124186
+#EXTINF:0,NFL: Los Angeles Rams
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124187
+#EXTINF:0,NFL: Miami Dolphins
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124188
+#EXTINF:0,NFL: Minnesota Vikings
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124189
+#EXTINF:0,NFL: New Orleans Saints
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124190
+#EXTINF:0,NFL: New England Patriots
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124191
+#EXTINF:0,NFL: New York Giants
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124192
+#EXTINF:0,NFL: New York Jets
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124193
+#EXTINF:0,NFL: Philadelphia Eagles
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124194
+#EXTINF:0,NFL: Pittsburgh Steelers
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124195
+#EXTINF:0,NFL: San Francisco 49ers
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124196
+#EXTINF:0,NFL: Seattle Seahawks
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124197
+#EXTINF:0,NFL: Tampa Bay Buccaneers
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124198
+#EXTINF:0,NFL: Tennessee Titans
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124199
+#EXTINF:0,NFL: Washington Football Team
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/124200
+#EXTINF:0,USA - 24/7 Cinemax West (M)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/63660
+#EXTINF:0,USA - 24/7 IndiePlex (M)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/63659
+#EXTINF:0,USA - 24/7 MovieMax (M)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/63657
+#EXTINF:0,USA - 24/7 MoviePlex (M)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/63656
+#EXTINF:0,USA - 24/7 OuterMax (M)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/63655
+#EXTINF:0,USA - 24/7 RetroPlex (M)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/63654
+#EXTINF:0,USA - 24/7 Showtime West (M)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/63653
+#EXTINF:0,USA - 24/7 Starz (M)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/63634
+#EXTINF:0,USA - 24/7 Starz Black (M)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/63652
+#EXTINF:0,USA - 24/7 Starz Cinema West (M)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/63649
+#EXTINF:0,USA - 24/7 Starz Comedy (M)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/63648
+#EXTINF:0,USA - 24/7 Starz East (M)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/63647
+#EXTINF:0,USA - 24/7 Starz Encore Action (M)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/63643
+#EXTINF:0,USA - 24/7 Starz Encore Family (M)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/63640
+#EXTINF:0,USA - 24/7 Starz Encore West (M)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/63636
+#EXTINF:0,USA - 24/7 Starz Family (M)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/63635
+#EXTINF:0,USA - 24/7 Staz West (M)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/63633
+#EXTINF:0,USA-A&E (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65412
+#EXTINF:0,USA-A&E (O)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59938
+#EXTINF:0,USA-A&E(M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1603
+#EXTINF:0,USA-ABC (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59946
+#EXTINF:0,USA-ABC Boston WCVB (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59942
+#EXTINF:0,USA-ABC Chicago WLS (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59943
+#EXTINF:0,USA-ABC Dallas TX WFAA (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59944
+#EXTINF:0,USA-ABC Fresno (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59945
+#EXTINF:0,USA-ABC Los Angeles KABC (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59949
+#EXTINF:0,USA-ABC NEW YORK WABC (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59951
+#EXTINF:0,USA-ABC News (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59952
+#EXTINF:0,USA-ABC Washington DC WJLA (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59953
+#EXTINF:0,USA-Action Max (O)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59955
+#EXTINF:0,USA-Altitude sports (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/69604
+#EXTINF:0,USA-AMC (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59958
+#EXTINF:0,USA-AMC(M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1602
+#EXTINF:0,USA-American Hero Channel (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59959
+#EXTINF:0,USA-American Heroes (O)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/116270
+#EXTINF:0,USA-Animal Planet (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35814
+#EXTINF:0,USA-Animal Planet (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59960
+#EXTINF:0,USA-AT&T Sport (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65403
+#EXTINF:0,USA-AT&T Sport 1 (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65402
+#EXTINF:0,USA-AT&T Sport 2 (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65408
+#EXTINF:0,USA-AT&T Sport 3 (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65409
+#EXTINF:0,USA-AWE Channel (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59963
+#EXTINF:0,USA-AXS TV (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59964
+#EXTINF:0,USA-Baby First (O)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59965
+#EXTINF:0,USA-Baby TV(M)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1601
+#EXTINF:0,USA-BBC America (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59968
+#EXTINF:0,USA-BBC HD(M)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1600
+#EXTINF:0,USA-BBC World News (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59969
+#EXTINF:0,USA-beIN Sports (TV)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59976
+#EXTINF:0,USA-beIN Sports LaLiga (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59979
+#EXTINF:0,USA-beIN Sports U (TV)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59977
+#EXTINF:0,USA-beIN Sports USA (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59980
+#EXTINF:0,USA-Bein USA HD (M)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1604
+#EXTINF:0,USA-Bet Her (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35822
+#EXTINF:0,USA-Bet Jams (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35823
+#EXTINF:0,USA-BET JAMS (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59983
+#EXTINF:0,USA-Bet Soul (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35824
+#EXTINF:0,USA-BET SOUL (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59984
+#EXTINF:0,USA-BET WEST (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59985
+#EXTINF:0,USA-Boomerang (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35825
+#EXTINF:0,USA-Bravo (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65443
+#EXTINF:0,USA-Bravo (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59989
+#EXTINF:0,USA-Cartoon Network (M)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35789
+#EXTINF:0,USA-CBeebies (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/69609
+#EXTINF:0,USA-CBS (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35790
+#EXTINF:0,USA-CBS (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/60000
+#EXTINF:0,USA-CBS 2 WBM (Chicago) (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59996
+#EXTINF:0,USA-CBS Boston WBZ (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59997
+#EXTINF:0,USA-CBS Columbus (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59998
+#EXTINF:0,USA-CBS Detroit (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59999
+#EXTINF:0,USA-CBS HOUSTON (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/60001
+#EXTINF:0,USA-CBS Miami (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/60002
+#EXTINF:0,USA-CBS New York(M)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1598
+#EXTINF:0,USA-CBS Sports (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/60004
+#EXTINF:0,USA-CBS Sports Network (TV)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/60006
+#EXTINF:0,USA-CBSN (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/60007
+#EXTINF:0,USA-Cine Sony (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/69608
+#EXTINF:0,USA-Cinemax Action 2(M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1574
+#EXTINF:0,USA-CMT (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35813
+#EXTINF:0,USA-CMT (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/60008
+#EXTINF:0,USA-CNBC (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101665
+#EXTINF:0,USA-CNBC (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65445
+#EXTINF:0,USA-CNBC World (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101666
+#EXTINF:0,USA-CNBC World HD (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/69611
+#EXTINF:0,USA-Comedy Central (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59935
+#EXTINF:0,USA-Comedy Central(M)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1596
+#EXTINF:0,USA-Comet (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35816
+#EXTINF:0,USA-Cooking Channel (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65416
+#EXTINF:0,USA-Cooking Channel (O)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35856
+#EXTINF:0,USA-Crime & Investigation Network (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65411
+#EXTINF:0,USA-Destination America (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35815
+#EXTINF:0,USA-Discovery Family (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/60014
+#EXTINF:0,USA-Discovery Life (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35817
+#EXTINF:0,USA-Discovery Life (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/60016
+#EXTINF:0,USA-Discovery Science (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/58074
+#EXTINF:0,USA-Discovery Science (O)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/60017
+#EXTINF:0,USA-Discovery TLC (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/58075
+#EXTINF:0,USA-Discovery TLC (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/60018
+#EXTINF:0,USA-Discovery Velocity (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/60019
+#EXTINF:0,USA-Discovery World (M)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/58073
+#EXTINF:0,USA-Disney Channel (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35793
+#EXTINF:0,USA-Disney Channel (O)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/60020
+#EXTINF:0,USA-Disney JR (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35794
+#EXTINF:0,USA-Disney JR (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/60021
+#EXTINF:0,USA-Disney xD (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35795
+#EXTINF:0,USA-Disney XD (O)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/60022
+#EXTINF:0,USA-E! WEST (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35847
+#EXTINF:0,USA-EPIX 1 (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/69606
+#EXTINF:0,USA-EPIX 1 (O)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35843
+#EXTINF:0,USA-EPIX 1 Este (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65390
+#EXTINF:0,USA-EPIX 1 Oeste (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65391
+#EXTINF:0,USA-EPIX 2 (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/69607
+#EXTINF:0,USA-EPIX 2 (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35844
+#EXTINF:0,USA-EPIX 2 Este (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65392
+#EXTINF:0,USA-EPIX Drive (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65394
+#EXTINF:0,USA-EPIX Drive (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35572
+#EXTINF:0,USA-EPIX Hits (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65393
+#EXTINF:0,USA-EPIX Hits (O)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35571
+#EXTINF:0,USA-Espn 1 (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/118418
+#EXTINF:0,USA-Espn 1 (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/118419
+#EXTINF:0,USA-Espn 2 (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/118420
+#EXTINF:0,USA-Espn 2 (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/118421
+#EXTINF:0,USA-Espn 3 (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/118422
+#EXTINF:0,USA-Espn News (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/118423
+#EXTINF:0,USA-Espn plus (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/69571
+#EXTINF:0,USA-Espn U (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/118424
+#EXTINF:0,USA-Estrella TV (TV)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/60377
+#EXTINF:0,USA-Estrella TV (TV)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/60378
+#EXTINF:0,USA-Fight network (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/69605
+#EXTINF:0,USA-Food Network (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65415
+#EXTINF:0,USA-FOX 25 (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35796
+#EXTINF:0,USA-Fox News Channel (M)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/53850
+#EXTINF:0,USA-Fox Soccer (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/58079
+#EXTINF:0,USA-Fox Soccer Plus (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35821
+#EXTINF:0,USA-Fox Soccer(M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1595
+#EXTINF:0,USA-Fox Sports Detroit (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/58085
+#EXTINF:0,USA-Fox Sports Indiana (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/58089
+#EXTINF:0,USA-Fox Sports Kansas (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/58090
+#EXTINF:0,USA-Fox Sports Tampa (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/58096
+#EXTINF:0,USA-Fox Sports West Plus(M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1593
+#EXTINF:0,USA-FS  1 (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1594
+#EXTINF:0,USA-FS 1 (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/58080
+#EXTINF:0,USA-FS 2 (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/58081
+#EXTINF:0,USA-FS2 (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/58087
+#EXTINF:0,USA-FXM(M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1592
+#EXTINF:0,USA-FXX(M)((720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1591
+#EXTINF:0,USA-Game Show Network (TV)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/116220
+#EXTINF:0,USA-Ginx eSports (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35818
+#EXTINF:0,USA-Gol TV (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65430
+#EXTINF:0,USA-Gol TV ES (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65431
+#EXTINF:0,USA-GOL TV USA (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35575
+#EXTINF:0,USA-Golf (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65436
+#EXTINF:0,USA-Great American Country (TV)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/3105
+#EXTINF:0,USA-HallMark Drama (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65428
+#EXTINF:0,USA-Hallmark movie Mysteries (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65435
+#EXTINF:0,USA-HallMark Movies & Mysteries (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65429
+#EXTINF:0,USA-HBO (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35801
+#EXTINF:0,USA-HBO 2 (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35797
+#EXTINF:0,USA-HBO 2 West(M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1573
+#EXTINF:0,USA-HBO 2(M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1572
+#EXTINF:0,USA-HBO Comedy (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35798
+#EXTINF:0,USA-HBO Family (M)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35799
+#EXTINF:0,USA-HBO Plus West(M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1571
+#EXTINF:0,USA-HBO Signature (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35800
+#EXTINF:0,USA-Hgtv (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35802
+#EXTINF:0,USA-History (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65438
+#EXTINF:0,USA-History (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/3129
+#EXTINF:0,USA-History (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1590
+#EXTINF:0,USA-IndiePlex(M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1570
+#EXTINF:0,USA-Inspirational(M)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1588
+#EXTINF:0,USA-Investigation Discovery (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/58072
+#EXTINF:0,USA-Investigation Discovery (O)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/60024
+#EXTINF:0,USA-Investigation Discovery (O)(70)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/4048
+#EXTINF:0,USA-Lifetime (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65439
+#EXTINF:0,USA-LMM (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/69613
+#EXTINF:0,USA-Mans 1 (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65397
+#EXTINF:0,USA-MANS 1(PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/69575
+#EXTINF:0,USA-MBC Chicago Sports 2 (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/69603
+#EXTINF:0,USA-Mega TV (TV)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/61675
+#EXTINF:0,USA-Mega TV (TV)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/61674
+#EXTINF:0,USA-MLB Network (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35803
+#EXTINF:0,USA-MSG +  (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/69602
+#EXTINF:0,USA-MSNBC (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101667
+#EXTINF:0,USA-MSNBC HD (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/69610
+#EXTINF:0,USA-MTV (M)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/58067
+#EXTINF:0,USA-MTV 2 (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/58068
+#EXTINF:0,USA-MTV Classic (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/58069
+#EXTINF:0,USA-MTV Live (M)(SD)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/58066
+#EXTINF:0,USA-MTV U (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/58070
+#EXTINF:0,USA-Nat Geo Wild(M)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1586
+#EXTINF:0,USA-Nat Geo(M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1587
+#EXTINF:0,USA-NBA TV(M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1585
+#EXTINF:0,USA-NBC 10 Philadelphia (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101668
+#EXTINF:0,USA-NBC 12 KPNX (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101669
+#EXTINF:0,USA-NBC Baltimore (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101670
+#EXTINF:0,USA-NBC Buffalo (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101671
+#EXTINF:0,USA-NBC Carolinas (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101672
+#EXTINF:0,USA-NBC Chicago (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101673
+#EXTINF:0,USA-NBC Kansas (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101674
+#EXTINF:0,USA-NBC KSL (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101675
+#EXTINF:0,USA-NBC KXAS (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101676
+#EXTINF:0,USA-NBC Los Angeles (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101677
+#EXTINF:0,USA-NBC Michigan (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101678
+#EXTINF:0,USA-NBC New Orleans (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101679
+#EXTINF:0,USA-NBC New York (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101680
+#EXTINF:0,USA-NBC Portland (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101681
+#EXTINF:0,USA-NBC San Fransisco (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101682
+#EXTINF:0,USA-NBC Sports  Bay Area Plus (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101684
+#EXTINF:0,USA-NBC Sports (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101689
+#EXTINF:0,USA-NBC Sports Bay Area (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101683
+#EXTINF:0,USA-NBC Sports California (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101685
+#EXTINF:0,USA-NBC Sports Chicago (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101687
+#EXTINF:0,USA-NBC Sports Chicago Plus (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101688
+#EXTINF:0,USA-NBC Sports Network1 (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65437
+#EXTINF:0,USA-NBC Sports Northwest
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101690
+#EXTINF:0,USA-NBC Sports Philadelphia (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101691
+#EXTINF:0,USA-NBC Sports Philadelphia Plus (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101692
+#EXTINF:0,USA-NBC Sports Washington (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101693
+#EXTINF:0,USA-NBC Sports Washington Plus (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101694
+#EXTINF:0,USA-NBC Washington (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101695
+#EXTINF:0,USA-NBC WESH Orlando (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101696
+#EXTINF:0,USA-NBC WLBT (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101697
+#EXTINF:0,USA-NBC WMTV (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101698
+#EXTINF:0,USA-NCB Jacksonville (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/101699
+#EXTINF:0,USA-NESN (O)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35807
+#EXTINF:0,USA-NHL Network (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65400
+#EXTINF:0,USA-Nick Music (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35826
+#EXTINF:0,USA-Nickelodeon (M)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35808
+#EXTINF:0,USA-Olympic (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65423
+#EXTINF:0,USA-Olympic Channel (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/3111
+#EXTINF:0,USA-Outdoor (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65395
+#EXTINF:0,USA-Outdoor (e)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/3082
+#EXTINF:0,USA-Oxygen (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65422
+#EXTINF:0,USA-Paramount (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35819
+#EXTINF:0,USA-Peachtree TV (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/69612
+#EXTINF:0,USA-PPV beIN Sports 4 (TV)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59970
+#EXTINF:0,USA-PPV beIN Sports 5 (TV)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59971
+#EXTINF:0,USA-PPV beIN Sports 6 (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59972
+#EXTINF:0,USA-PPV beIN Sports 7 (TV)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/59973
+#EXTINF:0,USA-Root Sport (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65407
+#EXTINF:0,USA-SEC Espn Networks (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/118425
+#EXTINF:0,USA-Showtime West (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1569
+#EXTINF:0,USA-SNY (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65432
+#EXTINF:0,USA-SNY (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/3115
+#EXTINF:0,USA-SNY (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/3092
+#EXTINF:0,USA-Sony Channel (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/3121
+#EXTINF:0,USA-Sony Movie Channel (TV)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35860
+#EXTINF:0,USA-Sony Movies (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65444
+#EXTINF:0,USA-Sportsman (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65399
+#EXTINF:0,USA-Sportsman(M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1580
+#EXTINF:0,USA-Sportsnet Y(M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1579
+#EXTINF:0,USA-Starz Cinema(M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1567
+#EXTINF:0,USA-Starz East(M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1566
+#EXTINF:0,USA-Starz Encore West(M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1558
+#EXTINF:0,USA-Starz Encore (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1560
+#EXTINF:0,USA-Starz in Black(M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1568
+#EXTINF:0,USA-Starz Kids & Family (M)[Dual Audio](720) 
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1557
+#EXTINF:0,USA-Sundance(M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1578
+#EXTINF:0,USA-Syfy (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65421
+#EXTINF:0,USA-SYFY(M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1577
+#EXTINF:0,USA-TCM (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35820
+#EXTINF:0,USA-TCM (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/69614
+#EXTINF:0,USA-Teen Nick (M)(SD)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35827
+#EXTINF:0,USA-THE CW (M)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35809
+#EXTINF:0,USA-The Weather Channel (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35810
+#EXTINF:0,USA-TNT (O)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35811
+#EXTINF:0,USA-TNT Pacific (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/58060
+#EXTINF:0,USA-Travel Channel (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65414
+#EXTINF:0,USA-TV ONE (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35863
+#EXTINF:0,USA-TVG (TV)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/60344
+#EXTINF:0,USA-TVG 2 (TV)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/60345
+#EXTINF:0,USA-Universal Kids (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/53907
+#EXTINF:0,USA-USA (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65420
+#EXTINF:0,USA-USA (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35853
+#EXTINF:0,USA-USA Network (M)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/35812
+#EXTINF:0,USA-USA Network(M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/1576
+#EXTINF:0,USA-We TV (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/3124
+#EXTINF:0,USA-World Fish (PM)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/65396
+#EXTINF:0,USA-Yes Network (M)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/55653
+#EXTINF:0,USA-Yes Network (TV)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/117695
+#EXTINF:0,USA-Music Choice - MC: Y2K (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119516
+#EXTINF:0,USA-Music Choice - MC: Rap 2K (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119520
+#EXTINF:0,USA-Music Choice - MC: Rock (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119525
+#EXTINF:0,USA-Music Choice - MC: Rap (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119534
+#EXTINF:0,USA-Music Choice - MC: Hip-Hop/R&B (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119540
+#EXTINF:0,UK - Amc (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119616
+#EXTINF:0,UK - CBS Drama (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119628
+#EXTINF:0,UK - Comedy Central (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119630
+#EXTINF:0,UK - Fox (O)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119639
+#EXTINF:0,UK - Paramount (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119647
+#EXTINF:0,UK - Sony Movies (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119648
+#EXTINF:0,UK - Syfy (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119649
+#EXTINF:0,UK - TCM (O)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119650
+#EXTINF:0,UK - Discovery TLC (O)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119651
+#EXTINF:0,UK - babytv (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119618
+#EXTINF:0,UK - Boomerang (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119624
+#EXTINF:0,UK - Cartoon Network (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119625
+#EXTINF:0,UK - CBeebies (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119627
+#EXTINF:0,UK - Disney Channel (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119637
+#EXTINF:0,UK - Disney XD (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119638
+#EXTINF:0,UK - Nick (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119645
+#EXTINF:0,UK - Nickelodeon (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119646
+#EXTINF:0,UK - Animal Planet (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119617
+#EXTINF:0,UK - BBC News (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119619
+#EXTINF:0,UK - BBC Parliament (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119620
+#EXTINF:0,UK - BBC Scotland (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119621
+#EXTINF:0,UK - BBC1 (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119622
+#EXTINF:0,UK - BBC2 (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119623
+#EXTINF:0,UK - CBBC (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119626
+#EXTINF:0,UK - CNN International (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119629
+#EXTINF:0,UK - Crime Investigation (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119631
+#EXTINF:0,UK - Discovery Channel (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119632
+#EXTINF:0,UK - Discovery (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119633
+#EXTINF:0,UK - Discovery History (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119634
+#EXTINF:0,UK - Discovery Science (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119635
+#EXTINF:0,UK - Discovery Turbo (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119636
+#EXTINF:0,UK - H2 (O)(1080)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119640
+#EXTINF:0,UK - History (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119641
+#EXTINF:0,UK - Nat Geo (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119642
+#EXTINF:0,UK - Nat Geo Wild (O)(720)
+http://tv.mediame.xyz:25461/davidllovo/OGvnH65gFR/119644
